@@ -1,0 +1,1 @@
+# aDintelle-automation-script
